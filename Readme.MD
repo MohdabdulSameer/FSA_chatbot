@@ -18,6 +18,7 @@ file name\Scripts\activate
 -- git remote add origin git remote add origin https://github.com/MohdabdulSameer/FS_Rag_Chatbot.git
 
 -- git branch -M main
+
 -- git push -u origin main
 
 -- pip install -r requirements.txt
